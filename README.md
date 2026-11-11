@@ -8,7 +8,7 @@
 Where do sales come from by channel, state and customer segment?
 
 ## The data
-- Public e-commerce sales dataset from Kaggle: **[add dataset name and link]**
+- Public e-commerce sales dataset from Kaggle
 - 31,047 order lines covering 28,471 unique order IDs (some orders have several lines)
 - Total sales: 21.2 million (currency not stated in the dataset)
 - Order status: Delivered 28,641, Returned 1,045, Cancelled 844, Refunded 517
